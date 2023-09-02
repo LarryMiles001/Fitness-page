@@ -1,0 +1,114 @@
+/* body{
+   background-color: black; 
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+li a{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111111;
+}
+h1{
+    color: red;
+    font-size: 70px;
+    font-family: Helvetica;
+    position: sticky;
+}
+img{
+    width: 500px;
+    height: 350px;
+    border-radius: 0 200px 0 200px;
+}
+h2{
+    color: white;
+    padding-top: 120px;
+    font-size: 90px;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: aliceblue;
+    font-size: 40px;
+    padding-top: 20px;
+}
+a{
+    color: red;
+    font-size: 35px;
+    cursor: pointer;
+    padding-bottom: 20px;
+}
+.more{
+    width: 500px;
+    height: 150px;
+    font-size: 30px;
+    background-color: gray;
+}
+h1{
+    position: sticky;
+}
+#demo{
+    color: blue;
+} */
+
+body{
+    background-color: black;
+}
+nav{
+    display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        font-size: 19px;
+        height: 100px;
+       padding: 10px;
+       background-color: aliceblue;
+}
+a:hover{
+    color: cadetblue;
+    transition: 0.2s;
+}
+h1{
+    color: white;
+    text-align: right;font-size: 58px;
+}
+span{
+    color: darkorange;
+}
+.hell{
+    padding-top: 40px;
+    padding-right: 10px;
+    margin-right: 50px;
+}
+p{
+    text-align: right;
+    color: aliceblue;
+    font-size: x-large;
+}
+button{
+    color: white;
+    background-color: red;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: burlywood;
+    transition: 0.3s;
+    text-align: center;
+}
+.well{
+    text-align: center;
+    padding-top: 20px;
+}
